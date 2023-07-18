@@ -1,5 +1,5 @@
 import "./Banner.scss";
-import BannerImg from '../../../assets/banner.jpg'
+import BannerImg from '../../../assets/banner.png'
 import {FaFacebookF,FaTwitter,FaInstagram,FaLinkedinIN,} from "react-icons/fa"
 
 const Banner = () => {
